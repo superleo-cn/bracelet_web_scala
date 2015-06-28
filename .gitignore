@@ -11,7 +11,22 @@ bin/
 tmp/
 test-result
 server.pid
+
+# Eclipse file
+.classpath
+.project
+.settings/
+
+# idea
+.idea
 *.iml
 *.eml
 /dist/
 .cache
+
+# Package Files #
+*.war
+*.ear
+*.DS_Store
+*.sql
+hs_err_pid*
